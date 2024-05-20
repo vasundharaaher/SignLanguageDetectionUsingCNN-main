@@ -1,4 +1,5 @@
-use python 3.10 
+store all files in same folder.
+use python 3.10 .
 to install requiered libraries with their specific versions.
 run command : pip install -r reuirements.txt
 1) run collectdata.py : for data collection.
